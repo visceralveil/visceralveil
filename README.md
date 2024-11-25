@@ -1,5 +1,5 @@
 <p align="center">
-farts
+<img width="435" src="https://readme-typing-svg.demolab.com/?font=&weight=300&size=15&duration=7000&pause=1000&color=CAF6F7&center=true&vCenter=true&multiline=true&repeat=false&width=435&lines=インターネットや・め・ろ～！！！"
 </p>
 <p align="center">
 <img width=500 src="https://i.postimg.cc/Y94VCZn5/IMG-0458.png"
@@ -9,4 +9,7 @@ farts
 </p>
 <p align="center">
 <img width=500 src="https://i.postimg.cc/Y94VCZn5/IMG-0458.png"
+</p>
+<p align="center">
+<a href="https://crueldilemma.atabook.org" style="color:#969696;">ata</a>
 </p>
