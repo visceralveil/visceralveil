@@ -14,5 +14,5 @@
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=12&duration=1&pause=1&color=CAF6F7&center=true&vCenter=true&multiline=true&repeat=false&width=435&lines=matching+w%2F+deco+♡+feel+to+int+with+me!;i+dont+bite+but+i+may+be+awkward+as+im+not+that+social+c:" 
 </p>
 <p align="center">
-<a href="https://crueldilemma.atabook.org" style="color:#969696;">ata</a>
+<a href="https://rentry.co/crueldilemma" style="color:#969696;">rentry</a>, <a href="https://crueldilemma.atabook.org" style="color:#969696;">ata</a>
 </p>
