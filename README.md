@@ -4,7 +4,7 @@
 <br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=eb7a34&background=FF000000&center=true&vCenter=true&width=235&height=30&lines=''I'll+do+my+best+!''" alt="Typing SVG" /></a>
 
-veil/vash〜⁠(⁠꒪⁠꒳⁠꒪⁠)⁠〜
+veil/vash 𐔌՞･·･՞𐦯
 <br>
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ​ w2i , usually off-tab/afk
 <br>
