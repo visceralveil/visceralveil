@@ -1,6 +1,6 @@
 <img align="left" width="350" src="https://pbs.twimg.com/media/FT3AOTFVsAAw44B?format=png&name=360x360" />
 <br>
-veil/vash (ﾉ´ヮ`)ﾉ*: ･ﾟ
+veil (ﾉ´ヮ`)ﾉ*: ･ﾟ
 <br>
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ​ w2i , usually off-tab/afk
 <br>
